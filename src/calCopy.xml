@@ -12,8 +12,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="DeclinePlus" />
   <Description DefaultValue="Decline and Copy meeting requests"/>
-  <IconUrl DefaultValue="https://calcopy.azurewebsites.net/images/blue-64.png" />
-  <HighResolutionIconUrl DefaultValue="https://calcopy.azurewebsites.net/images/blue-80.png" />
+  <IconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-64.png" />
+  <HighResolutionIconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-80.png" />
   <Hosts>
     <Host Name="Mailbox" />
   </Hosts>
@@ -29,13 +29,13 @@
         <!-- NOTE: Just reusing the read taskpane page that is invoked by the button
              on the ribbon in clients that support add-in commands. You can 
              use a completely different page if desired -->
-        <SourceLocation DefaultValue="https://calcopy.azurewebsites.net/AppRead/TaskPane/TaskPane.html"/>
+        <SourceLocation DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/AppRead/TaskPane/TaskPane.html"/>
         <RequestedHeight>450</RequestedHeight>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://calcopy.azurewebsites.net/AppCompose/Home/Home.html"/>
+        <SourceLocation DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/AppCompose/Home/Home.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -173,23 +173,23 @@
     <Resources>
       <bt:Images>
         <!-- Blue icon -->
-        <bt:Image id="blue-icon-16" DefaultValue="https://calcopy.azurewebsites.net/images/blue-16.png"/>
-        <bt:Image id="blue-icon-32" DefaultValue="https://calcopy.azurewebsites.net/images/blue-32.png"/>
-        <bt:Image id="blue-icon-80" DefaultValue="https://calcopy.azurewebsites.net/images/blue-80.png"/>
+        <bt:Image id="blue-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-16.png"/>
+        <bt:Image id="blue-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-32.png"/>
+        <bt:Image id="blue-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-80.png"/>
         <!-- Red icon -->
-        <bt:Image id="red-icon-16" DefaultValue="https://calcopy.azurewebsites.net/images/red-16.png"/>
-        <bt:Image id="red-icon-32" DefaultValue="https://calcopy.azurewebsites.net/images/red-32.png"/>
-        <bt:Image id="red-icon-80" DefaultValue="https://calcopy.azurewebsites.net/images/red-80.png"/>
+        <bt:Image id="red-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/red-16.png"/>
+        <bt:Image id="red-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/red-32.png"/>
+        <bt:Image id="red-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/red-80.png"/>
         <!-- Green icon -->
-        <bt:Image id="green-icon-16" DefaultValue="https://calcopy.azurewebsites.net/images/green-16.png"/>
-        <bt:Image id="green-icon-32" DefaultValue="https://calcopy.azurewebsites.net/images/green-32.png"/>
-        <bt:Image id="green-icon-80" DefaultValue="https://calcopy.azurewebsites.net/images/green-80.png"/>
+        <bt:Image id="green-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/green-16.png"/>
+        <bt:Image id="green-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/green-32.png"/>
+        <bt:Image id="green-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/green-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="functionFile" DefaultValue="https://calcopy.azurewebsites.net/FunctionFile/Functions.html"/>
-        <bt:Url id="readTaskPaneUrl" DefaultValue="https://calcopy.azurewebsites.net/AppRead/TaskPane/TaskPane.html"/>
-        <bt:Url id="composeTaskPaneUrl" DefaultValue="https://calcopy.azurewebsites.net/AppCompose/TaskPane/TaskPane.html"/>
-        <bt:Url id="customPaneUrl" DefaultValue="https://calcopy.azurewebsites.net/AppRead/CustomPane/CustomPane.html"/>
+        <bt:Url id="functionFile" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/FunctionFile/Functions.html"/>
+        <bt:Url id="readTaskPaneUrl" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/AppRead/TaskPane/TaskPane.html"/>
+        <bt:Url id="composeTaskPaneUrl" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/AppCompose/TaskPane/TaskPane.html"/>
+        <bt:Url id="customPaneUrl" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/AppRead/CustomPane/CustomPane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="DeclinePlus"/>
