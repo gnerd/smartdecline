@@ -10,8 +10,8 @@
   <Version>1.0.0.4</Version>
   <ProviderName>Sparkman Productions</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="DeclinePlus" />
-  <Description DefaultValue="Decline and Copy meeting requests"/>
+  <DisplayName DefaultValue="SmartDecline" />
+  <Description DefaultValue="Decline and retain meeting requests"/>
   <IconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-64.png" />
   <HighResolutionIconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-80.png" />
   <Hosts>
@@ -211,7 +211,7 @@
         <bt:String id="menuReadButtonLabel" DefaultValue="Get property"/>
         <bt:String id="paneReadButtonLabel" DefaultValue="Display all properties"/>
 
-        <bt:String id="funcReadSuperTipTitle" DefaultValue="Gets the subject of the message or appointment"/>
+        <bt:String id="funcReadSuperTipTitle" DefaultValue="Decline a meeting, but keep in on your calendar"/>
         <bt:String id="menuReadSuperTipTitle" DefaultValue="Choose a property to get"/>
         <bt:String id="paneReadSuperTipTitle" DefaultValue="Get all properties"/>
         
