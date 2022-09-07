@@ -12,8 +12,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="DeclinePlus" />
   <Description DefaultValue="Decline and Copy meeting requests"/>
-  <IconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-64.png" />
-  <HighResolutionIconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-80.png" />
+  <IconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-64.png" />
+  <HighResolutionIconUrl DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-80.png" />
   <Hosts>
     <Host Name="Mailbox" />
   </Hosts>
@@ -173,17 +173,17 @@
     <Resources>
       <bt:Images>
         <!-- Blue icon -->
-        <bt:Image id="blue-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-16.png"/>
-        <bt:Image id="blue-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-32.png"/>
-        <bt:Image id="blue-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/blue-80.png"/>
+        <bt:Image id="blue-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-16.png"/>
+        <bt:Image id="blue-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-32.png"/>
+        <bt:Image id="blue-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/blue-80.png"/>
         <!-- Red icon -->
-        <bt:Image id="red-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/red-16.png"/>
-        <bt:Image id="red-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/red-32.png"/>
-        <bt:Image id="red-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/red-80.png"/>
+        <bt:Image id="red-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/red-16.png"/>
+        <bt:Image id="red-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/red-32.png"/>
+        <bt:Image id="red-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/red-80.png"/>
         <!-- Green icon -->
-        <bt:Image id="green-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/green-16.png"/>
-        <bt:Image id="green-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/green-32.png"/>
-        <bt:Image id="green-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/images/green-80.png"/>
+        <bt:Image id="green-icon-16" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/green-16.png"/>
+        <bt:Image id="green-icon-32" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/green-32.png"/>
+        <bt:Image id="green-icon-80" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/Images/green-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="functionFile" DefaultValue="https://nice-tree-00f039a1e.1.azurestaticapps.net/FunctionFile/Functions.html"/>
